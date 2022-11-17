@@ -1,0 +1,11 @@
+{
+    "id": 31231,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "edad": 25,
+    "direccion": {
+        "calle": "Av. Siempreviva",
+        "numero": 742,
+        "ciudad": "Springfield"
+    }
+}
